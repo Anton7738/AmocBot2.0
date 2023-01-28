@@ -1,0 +1,56 @@
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:24:12.205732
+	Total Messages: 25
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:24:19.438438
+	Total Messages: 25
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:28:18.134761
+	Total Messages: 24
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:29:20.470684
+	Total Messages: 24
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:30:00.075339
+	Total Messages: 24
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:30:40.629509
+	Total Messages: 24
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 02:46:55.655309
+	Total Messages: 25
+	Old Messages: 
+	New Messages: 
+==========================================
+=============== EXTRACTION ===============
+	Channel ID: 1051059403287175198
+	Date/Time: 2023-01-28 17:16:51.790851
+	Total Messages: 27
+	Old Messages: 
+	New Messages: 
+==========================================
